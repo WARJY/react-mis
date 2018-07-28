@@ -1,0 +1,23 @@
+.search{
+	position: relative;
+    margin-right: 15px;
+}
+
+.search input{
+	border: 1px solid #e9f1f3;
+    width: 100%;
+    padding: 10px;
+    margin-right: 68px;
+}
+
+.search-btn{
+	position: absolute;
+    right: 0;
+    top: 0;
+    color: #fff !important;
+    display: block;
+    background: #576B7E;
+    height: 42px;
+    line-height: 42px;
+    padding: 0 20px;
+}

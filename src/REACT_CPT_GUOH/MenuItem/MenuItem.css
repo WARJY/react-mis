@@ -1,0 +1,11 @@
+.menu-item{
+	color: #3c4451;
+			    font-size: 16px;
+			    padding: 0 20px;
+			    height: 44px;
+			    line-height: 44px;
+}
+
+.menu-item .flex-item{
+	padding-left: 20px;
+}

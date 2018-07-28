@@ -1,0 +1,50 @@
+.block{
+	width: 100%;
+	padding: 10px 0 0 0;
+}
+
+.block-box{
+	cursor: pointer;
+    padding: 0 15px;
+    margin-right: 15px;
+    border: 1px solid #e9f1f3;
+    position: relative;
+}
+.block-title{
+	border-bottom: 1px solid #e9f1f3;
+    padding: 10px 0;
+}
+
+.block-title strong{
+	display: block;
+}
+
+.block-content{
+	margin-top: 0;
+    padding: 10px 0;
+    position: relative;
+}
+
+.block-content p{
+	color: #a5b8bf;
+    margin-top: 5px;
+}
+
+.block-more .block-box{
+	background: #fbfbfb;
+    height: 180px;
+    text-align: center;
+    font-size: 24px;
+    padding-top: 66px;
+}
+
+.block-img{
+	position: absolute;
+	right: 0;
+	top: 20px;
+}
+
+.block-img img{
+	width: 50px;
+    border-radius: 50%;
+}

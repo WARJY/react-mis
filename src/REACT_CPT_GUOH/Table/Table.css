@@ -1,0 +1,90 @@
+.table-box{
+	text-align: center;
+    border-bottom: 1px solid #e9f1f3;
+    position: relative;
+}
+
+.table-tab a{
+	color: #333;
+    display: block;
+    padding: 20px;
+    max-width: 100px;
+}
+
+.table-tab a.active{
+	color: #009efb;
+    border-bottom: 2px solid #009efb;
+}
+
+.tab-search{
+	position: absolute;
+    right: 0;
+    margin: 10px 0;
+}
+
+.tab-search a{
+	position: absolute;
+    right: 0;
+    top: 0;
+    color: #fff;
+    display: block;
+    background: #576B7E;
+    height: 42px;
+    line-height: 42px;
+    padding: 0 20px;
+}
+
+.table{
+	border: 1px solid #e9f1f3;
+    position: relative;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.table-hd{
+	padding: 10px 0 10px 20px;
+    border-bottom: 1px solid #e9f1f3;
+    font-weight: 700;
+}
+
+.table-bd{
+	padding: 10px 0 10px 20px;
+}
+
+.operation span{
+	padding-left: 6px;
+}
+
+.table-ft{
+	padding: 20px 0;
+}
+
+.table-ft-box{
+	width: 500px;
+	margin: 0 auto;
+}
+
+.table-ft a:first-child{
+	border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.table-ft a:last-child{
+	border-right: 1px solid #e9f1f3;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.table-ft a{
+	border: 1px solid #e9f1f3;
+    border-right: 0;
+    display: block;
+    padding: 5px 0;
+    color: #ced0dc;
+    text-align: center;
+}
+
+.table-ft .active{
+	color: #333;
+}
+

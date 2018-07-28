@@ -1,0 +1,30 @@
+.g-login { }
+
+.g-login-con { }
+
+.g-login-header { height: 100px; padding-top: 25px; }
+
+.g-login-header .g-login-logo { float: left; margin-top: 22px; }
+.g-login-header h1 { font-weight: normal; margin-top: 18px; display: block; border-left: 1px solid #ddd; float: left; margin-left: 20px; padding-left: 20px; color: #989292; }
+
+
+.login_banner { width: 100%; height: 588px; background: #001846 url(../images/login-banner.jpg) no-repeat top center; position: relative; }
+.g-login-wrap { width: 400px; min-height: 500px; background: red; }
+
+.g-login-banner { width: 100%; height: 100%; position: absolute; display: block; }
+.g-module-inner { width: 1200px; margin: 0 auto; }
+.login-con { width: 400px; min-height: 385PX; margin-bottom: 0; margin-right: 0; font-size: 14px; background-color: #fff; position: relative; float: right; margin-top: 40px; }
+.login-con-title { padding: 40px 0 24px; text-align: center; font-size: 24px; color: #000; }
+.login-con-title h1 { font-weight: normal; line-height: inherit; font-size: 24px; }
+.login-con-form { padding: 20px 20px 60px 20px; }
+.login-con-form .form-item { margin-bottom: 20px; }
+.login-con-form .form-item input { width: 360px !important; line-height: 22px; padding: 13px 16px 13px 14px;margin: 0 !important; display: block; border: 1px solid #e0e0e0 !important; }
+.login-con-form .form-item .err-tips { color: #f56600; }
+.login-con-form .form-item a.g-btn-default { width: 360px; display: block; padding: 20px 0; background: #00b86b; font-size: 18px; }
+
+.g-footer { text-align: center; padding: 10px 0; }
+.page-tel { color: #00B86B; font-size: 26px; height: 40px; line-height: 40px; font-weight: bold; margin-right: 20px; margin-top: 25px; font-weight: normal; }
+.fr { float: right; }
+.page-tel .bfonts { font-size: 30px; font-weight: normal; }
+
+.g-icon-con { }

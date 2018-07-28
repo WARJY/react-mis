@@ -1,0 +1,9 @@
+.new{
+	position: absolute;
+	left: 33.3%;
+	width: 33.3%;
+	height: 100%;
+	top: -100%;
+	padding: 10px 40px 100px 40px;
+	background-color: #fff;
+}

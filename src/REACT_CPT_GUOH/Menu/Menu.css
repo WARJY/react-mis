@@ -1,0 +1,15 @@
+			.menu {
+				height: calc(100vh - 69px);
+			    display: block;
+				background: #f2f7f8;
+				z-index: 999;
+				overflow-x: hidden;
+				overflow-y: scroll;
+			}
+			
+			.menu .active{
+				background: #fff;
+			    border-left: 2px solid #009efb;
+			    color: #009efb;
+			}
+			

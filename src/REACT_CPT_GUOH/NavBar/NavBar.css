@@ -1,0 +1,25 @@
+			.nav {
+				position: relative;
+				width: 260px;
+			}
+			
+			.nav-title {
+				height: 69px;
+				position: relative;
+				display: block;
+				z-index: 999;
+				background: #fff;
+				padding: 10px 0 10px 10px;
+				border-bottom: 1px solid #e9f1f3;
+			}
+			
+			.nav-title h1 {
+				font-weight: normal;
+				font-size: 20px;
+				padding-left: 10px;
+			}
+			
+			.nav-title p {
+				font-size: 12px;
+				padding-left: 10px;
+			}

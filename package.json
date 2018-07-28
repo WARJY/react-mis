@@ -1,0 +1,21 @@
+{
+  "name": "react-mis",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.0.0",
+    "echarts": "^3.8.5",
+    "echarts-for-react": "2.0.0",
+    "jquery": "^3.2.1",
+    "moment": "^2.19.3",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

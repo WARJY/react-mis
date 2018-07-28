@@ -1,0 +1,15 @@
+.search-bar {
+    position: relative;
+    margin-right: 15px;
+}
+a.search-bar-btn {
+    position: absolute;
+    right: 0;
+    top: 0;
+    color: #fff;
+    display: block;
+    background: #576B7E;
+    height: 42px;
+    line-height: 42px;
+    padding: 0 20px;
+   }

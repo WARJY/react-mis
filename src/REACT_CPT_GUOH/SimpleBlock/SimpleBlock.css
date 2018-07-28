@@ -1,0 +1,16 @@
+.simple-block-box {
+	border: 1px solid #e9f1f3;
+	padding: 20px;
+	position: relative;
+	margin-right: 15px;
+}
+
+.num-text h1 {
+	font-size: 43px;
+	font-weight: 400;
+	font-family: "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaHei", "\9ED1\4F53", Arial, sans-serif;
+}
+
+.num-text p {
+	line-height: 2;
+}

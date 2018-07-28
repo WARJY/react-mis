@@ -1,0 +1,5 @@
+			.content{
+				position: relative;
+				min-width: calc(100% - 260px);
+				right: 0;
+			}

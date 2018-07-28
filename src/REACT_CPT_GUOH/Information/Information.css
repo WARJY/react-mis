@@ -1,0 +1,27 @@
+.information{
+	margin-top: 20px;
+    border: 1px solid #e9f1f3;
+    padding: 20px;
+    position: relative;
+}
+
+.information h1,
+.information span{
+	display: inline-block;
+	width: 100%;
+}
+
+.information h1{
+	margin-bottom: 20px;
+}
+
+.img-head-l {
+	max-width: 120px;
+    display: block;
+    border-right: 1px solid #e9f1f3;
+}
+
+.img-head-l img {
+    width: 100px;
+    border-radius: 50%;
+}

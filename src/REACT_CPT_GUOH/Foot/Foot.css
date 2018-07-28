@@ -1,0 +1,12 @@
+			.foot {
+				position: fixed;
+				bottom: 10px;
+				left: 50%;
+				margin-left: -600px;
+			}
+			
+			.foot p {
+				width: 1200px;
+				margin: 0 auto;
+				text-align: center;
+			}
