@@ -4,6 +4,7 @@
 
 大致结构如下
 
+```javascript
 let props = {
     collapsed: false,
     Login: {},
@@ -43,4 +44,5 @@ let props = {
     },
     copyRight:""
 }
+```
       
